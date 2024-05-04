@@ -250,6 +250,9 @@ body {
   .search {
     display: none;
   }
+  .footer__one-sec2 {
+    display: none;
+  }
   /* .nav__s4 {
     display: block;
   } */
